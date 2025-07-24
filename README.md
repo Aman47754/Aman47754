@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Verma</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **Backend Development**
 
 - 📫 How to reach me **amanverma06012004@gmail.com**
 
